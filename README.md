@@ -1,0 +1,2 @@
+# speechrecognition
+Jquery, Firebase, Annyang
