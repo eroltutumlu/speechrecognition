@@ -1,0 +1,31 @@
+#whoami{
+    color: aliceblue;
+    width: 100%;
+    height: 150px;
+    background-color: #0080E3;
+}
+
+#whoami p {
+    font-size: 20px;
+    line-height: 1.2em;
+}
+
+#addMessage {
+    color: aliceblue;
+    width: 100%;
+    height: auto;
+    background-color: #259780;
+}
+
+footer{
+    padding: 50px;
+    background-color: #47484B;
+    color: #fff;
+}
+
+ul li {
+    background-color: darkgreen !important;
+    line-height: 1.2em !important;
+    border: 0 !important;
+    color: beige !important;
+}
