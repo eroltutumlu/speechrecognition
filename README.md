@@ -8,7 +8,9 @@ I'm sure you will say nice things.
 # See also
 
 https://api.jquery.com
+
 https://www.firebase.com/docs/
+
 https://www.getbootstrap.com/
 
 # Contacts
